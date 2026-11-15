@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 720" role="img" aria-labelledby="t d">
+<title id="t">Dorodourcalé Veloce, voiture de luxe fictive YSL</title><desc id="d">Illustration originale d'un coupé de luxe sans logo de constructeur réel, blason YSL sur la carrosserie</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".6" stop-color="#1d0b11"/><stop offset="1" stop-color="#070707"/></linearGradient>
+<linearGradient id="paint" x1="0" y1="0" x2=".6" y2="1"><stop stop-color="#ff4258"/><stop offset=".28" stop-color="#951423"/><stop offset=".63" stop-color="#16141a"/><stop offset=".87" stop-color="#951423"/><stop offset="1" stop-color="#030407"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#617077"/><stop offset=".36" stop-color="#13222a"/><stop offset="1" stop-color="#04070b"/></linearGradient>
+<radialGradient id="light"><stop stop-color="#f52345" stop-opacity=".48"/><stop offset="1" stop-color="#f52345" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="1320" height="720" fill="url(#bg)"/>
+<ellipse cx="1060" cy="220" rx="330" ry="235" fill="url(#light)"/>
+<ellipse cx="350" cy="100" rx="310" ry="230" fill="url(#light)" opacity=".42"/>
+<g stroke="#ffffff" opacity=".09"><path d="M0 150 H1320 M0 580 H1320"/><path d="M0 600 370 520 M1320 600 950 520"/></g>
+<ellipse cx="670" cy="563" rx="550" ry="42" fill="#000" opacity=".8" filter="url(#blur)"/>
+<path d="M91 460 C142 418 227 398 329 389 L957 382 C1117 391 1182 428 1230 462 L1236 514 Q1160 544 1021 547 L260 550 Q126 544 85 515Z" fill="url(#paint)" stroke="#ff4258" stroke-width="6"/>
+<path d="M220 390 C323 316 421 269 555 259 L744 259 C831 269 927 320 1001 375 L1095 389 L230 391Z" fill="url(#glass)" stroke="#ff4258" stroke-width="8"/>
+<path d="M596 261 611 390 M793 260 856 384" stroke="#c9d6d9" stroke-opacity=".7" stroke-width="8"/>
+<path d="M166 446 C360 432 944 421 1197 457" fill="none" stroke="#fff" stroke-opacity=".59" stroke-width="6"/>
+<path d="M125 505 C389 519 924 527 1200 500" fill="none" stroke="#f52345" stroke-width="7"/>
+<path d="M104 454 228 435 208 462 107 479Z" fill="#fff5f5"/>
+<path d="M1092 438 1210 458 1212 479 1092 461Z" fill="#fff"/>
+<path d="M286 425 355 407 M954 411 1030 425" stroke="#e8eced" stroke-opacity=".7" stroke-width="5"/>
+<g>
+<circle cx="342" cy="528" r="94" fill="#060609"/><circle cx="342" cy="528" r="67" fill="#202124" stroke="#7d8086" stroke-width="11"/><circle cx="342" cy="528" r="46" fill="#08080a" stroke="#bbbbc1" stroke-width="6"/><circle cx="342" cy="528" r="16" fill="#f52345"/>
+<path d="M342 462 V594 M276 528 H408 M295 481 L389 575 M389 481 L295 575" stroke="#888c92" stroke-width="9"/>
+<circle cx="1002" cy="525" r="92" fill="#060609"/><circle cx="1002" cy="525" r="66" fill="#202124" stroke="#7d8086" stroke-width="11"/><circle cx="1002" cy="525" r="46" fill="#08080a" stroke="#bbbbc1" stroke-width="6"/><circle cx="1002" cy="525" r="16" fill="#f52345"/>
+<path d="M1002 459 V591 M936 525 H1068 M955 478 L1049 572 M1049 478 L955 572" stroke="#888c92" stroke-width="9"/>
+</g>
+<path d="M1135 466l36 11-3 31-37 0-10-27Z" fill="#080808" stroke="#f52345" stroke-width="4"/>
+<text x="1148" y="493" fill="#fff" font-size="15" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900">YSL</text>
+<path d="M564 408 H790" stroke="#c8c8d0" stroke-opacity=".4" stroke-width="4"/>
+<text x="62" y="88" font-family="Arial,sans-serif" font-size="21" fill="#f2f2f2" letter-spacing="9">DORODOURCALÉ</text>
+<text x="63" y="116" font-family="Arial,sans-serif" font-size="13" fill="#f52345" letter-spacing="7">YSL / VELOCE</text>
+</svg>
